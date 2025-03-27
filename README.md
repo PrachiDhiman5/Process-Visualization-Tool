@@ -76,9 +76,12 @@ Compare scheduling strategy performance
 Analyze process waiting and turnaround times
 
 ## Contributors
-[Prachi]-[]
-[Udit]-[]
-[Saksham]-[]
+[Prachi]-
+[https://github.com/PrachiDhiman5]
+[Udit]-
+[https://github.com/uditjangra]
+[Saksham]-
+[]
 
 ## Credits
 Dr. Anudeep Goraya, Professor, Lovely Professional University, Phagwara.
