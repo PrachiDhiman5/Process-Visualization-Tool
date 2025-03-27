@@ -9,71 +9,69 @@ analyze, and visualize different scheduling strategies in real-time.
 ## Supported Scheduling Algorithms
 ### First Come First Serve(FCFS)
 ### Shortest Job First(SJF)
-   Preemptive
-   Non-Preemptive
+   - Preemptive
+   - Non-Preemptive
 ### Priority Scheduling
-   Preemptive
-   Non-Preemptive
+   - Preemptive
+   - Non-Preemptive
 ### Round Robin
 
 ## Visualization Capabilities
-Interactive Gantt Chart
-Detailed Process Metrics Table
-Process State Transition Diagram
-Comprehensive Algorithm Performance Analysis
+- Interactive Gantt Chart
+- Detailed Process Metrics Table
+- Process State Transition Diagram
+- Comprehensive Algorithm Performance Analysis
 
 ## Educational Insights
 
 The tool provides deep insights into:
-
-Process execution patterns
-Scheduling algorithm behaviors
-Performance characteristics of different scheduling strategies
-Impact of arrival times, burst times, and priorities on process execution
+- Process execution patterns
+- Scheduling algorithm behaviors
+- Performance characteristics of different scheduling strategies
+- Impact of arrival times, burst times, and priorities on process execution
 
 ## Key Components
 ### UserInterface
-Intuitive process input system
-Dynamic algorithm selection
-Real-time visualization
-Multiple theme options
+- Intuitive process input system
+- Dynamic algorithm selection
+- Real-time visualization
+- Multiple theme options
 
 ### Scheduling Simulation
 Offers in-depth analysis of:
-
-Process arrival and execution times
-Waiting times
-Turnaround times
-CPU utilization
-Scheduling overhead
+- Process arrival and execution times
+- Waiting times
+- Turnaround times
+- CPU utilization
+- Scheduling overhead
 
 ## Requirements
-Python
-tkinter
-matplotlib
-numpy
+- Python
+- tkinter
+- matplotlib
+- numpy
 
 ## Usage
 1. Select a scheduling algorithm
 2. Input process details:
-  Arrival Time
-  Burst Time
-  Priority (for priority-based algorithms)
+  - Arrival Time
+  - Burst Time
+  - Priority (for priority-based algorithms)
 3. Add multiple processes
 4. Start the simulation
 
 ## Visualization Modes
 
-Gantt Chart
-Metrics Analysis
-Process State Transitions
+- Gantt Chart
+- Metrics Analysis
+- Process State Transitions
 
 ## Key Learning Objectives
 
-Understand different scheduling algorithms
-Visualize process execution sequences
-Compare scheduling strategy performance
-Analyze process waiting and turnaround times
+- Understand different scheduling algorithms
+- Visualize process execution sequences
+- Compare scheduling strategy performance
+- Analyze process waiting and turnaround times
 
 ## Contributors
 [Prachi]-
