@@ -1,28 +1,28 @@
-#Process Scheduling Visualization Tool
-##Overview
+# Process Scheduling Visualization Tool
+## Overview
 The Process Scheduling Visualization Tool is an interactive educational application designed to 
 help students, researchers, and professionals understand the intricacies of CPU process scheduling 
 algorithms. By providing a comprehensive graphical interface, this tool allows users to simulate, 
 analyze, and visualize different scheduling strategies in real-time.
 
-##Features
-##Supported Scheduling Algorithms
-###First Come First Serve(FCFS)
-###Shortest Job First(SJF)
+## Features
+## Supported Scheduling Algorithms
+### First Come First Serve(FCFS)
+### Shortest Job First(SJF)
    Preemptive
    Non-Preemptive
-###Priority Scheduling
+### Priority Scheduling
    Preemptive
    Non-Preemptive
-###Round Robin
+### Round Robin
 
-##Visualization Capabilities
+## Visualization Capabilities
 Interactive Gantt Chart
 Detailed Process Metrics Table
 Process State Transition Diagram
 Comprehensive Algorithm Performance Analysis
 
-##Educational Insights
+## Educational Insights
 
 The tool provides deep insights into:
 
@@ -31,14 +31,14 @@ Scheduling algorithm behaviors
 Performance characteristics of different scheduling strategies
 Impact of arrival times, burst times, and priorities on process execution
 
-##Key Components
-###UserInterface
+## Key Components
+### UserInterface
 Intuitive process input system
 Dynamic algorithm selection
 Real-time visualization
 Multiple theme options
 
-###Scheduling Simulation
+### Scheduling Simulation
 Offers in-depth analysis of:
 
 Process arrival and execution times
@@ -47,13 +47,13 @@ Turnaround times
 CPU utilization
 Scheduling overhead
 
-##Requirements
+## Requirements
 Python
 tkinter
 matplotlib
 numpy
 
-##Usage
+## Usage
 1. Select a scheduling algorithm
 2. Input process details:
   Arrival Time
@@ -62,23 +62,23 @@ numpy
 3. Add multiple processes
 4. Start the simulation
 
-##Visualization Modes
+## Visualization Modes
 
 Gantt Chart
 Metrics Analysis
 Process State Transitions
 
-##Key Learning Objectives
+## Key Learning Objectives
 
 Understand different scheduling algorithms
 Visualize process execution sequences
 Compare scheduling strategy performance
 Analyze process waiting and turnaround times
 
-##Contributors
+## Contributors
 [Prachi]-[]
 [Udit]-[]
 [Saksham]-[]
 
-##Credits
+## Credits
 Dr. Anudeep Goraya, Professor, Lovely Professional University, Phagwara.
